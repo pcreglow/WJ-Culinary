@@ -190,7 +190,7 @@ module.exports = function(grunt) {
         bsFiles: {
           src: [
             'assets/css/*.css',
-            'culinary.html'
+            'assets/*.html'
           ]
         },
         options: {
@@ -210,5 +210,5 @@ module.exports = function(grunt) {
 
 
   // Tasks
-  grunt.registerTask('default', ['less']);
+  grunt.registerTask('default', ['browserSync', 'watch']);
 };
