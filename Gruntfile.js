@@ -190,7 +190,7 @@ module.exports = function(grunt) {
         bsFiles: {
           src: [
             'assets/css/*.css',
-            'assets/*.html'
+            '*.html'
           ]
         },
         options: {
