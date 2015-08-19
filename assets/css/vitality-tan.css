@@ -984,6 +984,10 @@ aside.cta-quote span.quote {
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e1e1e1;
 }
+#contact {
+  padding-top: 10em;
+  padding-bottom: 8em;
+}
 footer.footer {
   color: rgba(255, 255, 255, 0.7);
   background: no-repeat center center scroll;
