@@ -1,5 +1,5 @@
 /*!
- * Vitality v1.3.5 (http://themes.startbootstrap.com/vitality-v1.3.5)
+ * Vitality v0.0.0 (http://themes.startbootstrap.com/vitality-v0.0.0)
  * Copyright 2013-2015 Start Bootstrap Themes
  * To use this theme you must have a license purchased at WrapBootstrap (https://wrapbootstrap.com)
  */
@@ -983,6 +983,10 @@ aside.cta-quote span.quote {
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e1e1e1;
+}
+#contact {
+  padding-top: 10em;
+  padding-bottom: 8em;
 }
 footer.footer {
   color: rgba(255, 255, 255, 0.7);
